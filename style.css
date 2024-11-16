@@ -1,0 +1,44 @@
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(assests/image.png);
+}
+p , h2,h3,h4,h5,h6,button {
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+}
+.my-autoo
+{
+    margin: 170px 0px;
+}
+h1
+{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px !important;
+}
+.colored
+{
+    color:#88374fdf;
+    text-shadow:black;
+}
+.colored2
+{
+    color:#d8d6cc !important;
+}
+.coverd
+{
+    background-color:#b9b4ae ;
+    width: 45%;
+    margin: auto;
+    margin-top: 12px;
+}
+.hoverd {
+    background-color:#88374fdf!important;
+    border: #681b32df !important;
+    color: white !important;
+}
+
+.hoverd:hover {
+    background-color: #681b32df !important;
+}
